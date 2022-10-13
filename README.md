@@ -1,6 +1,11 @@
 ### Hi there 👋
 I'm Brenda Martins, I'm a Software Analyst at CI&T, and I've been working in tech since 2015.
 
+## ⚡ Technologies
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square
+
 <!--
 **brenda-martins/brenda-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
