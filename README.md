@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Brenda Martins, I'm a Software Analyst at CI&T, and I've been working in tech since 2015.
 
 <!--
 **brenda-martins/brenda-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
